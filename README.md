@@ -1,12 +1,5 @@
 # Saumya-Singh-Billing-Software---Khushi-TRADERS
 GST Billing Software built with Python, Tkinter, and SQLite. It features secure login, automatic invoice generation, GST calculation, PDF bill creation, and invoice management. Designed to help small businesses automate and simplify their billing process efficiently.
-# 💼 Khushi Traders – GST Billing Software
-
-A professional desktop-based GST billing system developed using Python and Tkinter.
-
-This software allows small businesses to generate invoices, calculate GST, manage invoice records, and export PDF bills automatically.
-
----
 
 ## 🚀 Features
 
