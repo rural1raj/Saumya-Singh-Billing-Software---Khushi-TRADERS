@@ -28,7 +28,7 @@ GST Billing Software built with Python, Tkinter, and SQLite. It features secure 
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+
 
 - Login Screen
 - Dashboard
