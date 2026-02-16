@@ -43,7 +43,7 @@ GST Billing Software built with Python, Tkinter, and SQLite. It features secure 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/khushi-traders-gst-billing.git
+git clone (https://github.com/rural1raj/Saumya-Singh-Billing-Software---Khushi-TRADERS.git)
 cd khushi-traders-gst-billing
 python billing.py
 Database
